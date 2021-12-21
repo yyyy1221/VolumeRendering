@@ -1,0 +1,137 @@
+﻿  main.cpp
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(72,33): error C2065: 'GL_VERTEX_SHADER': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(72,18): error C3861: 'glCreateShader': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(73,9): error C3861: 'glShaderSource': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(74,9): error C3861: 'glCompileShader': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(78,35): error C2065: 'GL_FRAGMENT_SHADER': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(78,20): error C3861: 'glCreateShader': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(79,9): error C3861: 'glShaderSource': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(80,9): error C3861: 'glCompileShader': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(88,39): error C2065: 'GL_GEOMETRY_SHADER': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(88,24): error C3861: 'glCreateShader': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(89,13): error C3861: 'glShaderSource': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(90,13): error C3861: 'glCompileShader': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(95,14): error C3861: 'glCreateProgram': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(96,9): error C3861: 'glAttachShader': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(97,9): error C3861: 'glAttachShader': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(99,13): error C3861: 'glAttachShader': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(100,9): error C3861: 'glLinkProgram': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(103,9): error C3861: 'glDeleteShader': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(104,9): error C3861: 'glDeleteShader': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(106,13): error C3861: 'glDeleteShader': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(113,9): error C3861: 'glUseProgram': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(120,21): error C3861: 'glGetUniformLocation': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(120,9): error C3861: 'glUniform1i': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(125,21): error C3861: 'glGetUniformLocation': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(125,9): error C3861: 'glUniform1i': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(130,21): error C3861: 'glGetUniformLocation': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(130,9): error C3861: 'glUniform1f': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(135,22): error C3861: 'glGetUniformLocation': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(135,9): error C3861: 'glUniform2fv': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(139,21): error C3861: 'glGetUniformLocation': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(139,9): error C3861: 'glUniform2f': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(144,22): error C3861: 'glGetUniformLocation': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(144,9): error C3861: 'glUniform3fv': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(148,21): error C3861: 'glGetUniformLocation': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(148,9): error C3861: 'glUniform3f': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(153,22): error C3861: 'glGetUniformLocation': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(153,9): error C3861: 'glUniform4fv': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(157,21): error C3861: 'glGetUniformLocation': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(157,9): error C3861: 'glUniform4f': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(162,28): error C3861: 'glGetUniformLocation': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(162,9): error C3861: 'glUniformMatrix2fv': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(167,28): error C3861: 'glGetUniformLocation': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(167,9): error C3861: 'glUniformMatrix3fv': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(172,28): error C3861: 'glGetUniformLocation': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(172,9): error C3861: 'glUniformMatrix4fv': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(181,9): error C2065: 'GLchar': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(181,16): error C2146: 구문 오류: ';'이(가) 'infoLog' 식별자 앞에 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(181,16): error C2065: 'infoLog': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(184,35): error C2065: 'GL_COMPILE_STATUS': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(184,13): error C3861: 'glGetShaderiv': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(187,56): error C2065: 'infoLog': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(187,17): error C3861: 'glGetShaderInfoLog': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(188,93): error C2065: 'infoLog': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(193,36): error C2065: 'GL_LINK_STATUS': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(193,13): error C3861: 'glGetProgramiv': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(196,57): error C2065: 'infoLog': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(196,17): error C3861: 'glGetProgramInfoLog': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\shader.h(197,90): error C2065: 'infoLog': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\cube.h(69,13): error C3861: 'glGenVertexArrays': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\cube.h(70,13): error C3861: 'glGenBuffers': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\cube.h(71,26): error C2065: 'GL_ARRAY_BUFFER': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\cube.h(71,13): error C3861: 'glBindBuffer': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\cube.h(72,26): error C2065: 'GL_ARRAY_BUFFER': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\cube.h(72,71): error C2065: 'GL_STATIC_DRAW': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\cube.h(72,13): error C3861: 'glBufferData': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\cube.h(73,13): error C3861: 'glBindVertexArray': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\cube.h(74,13): error C3861: 'glVertexAttribPointer': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\cube.h(75,13): error C3861: 'glVertexAttribPointer': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\cube.h(76,13): error C3861: 'glEnableVertexAttribArray': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\cube.h(77,13): error C3861: 'glEnableVertexAttribArray': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\cube.h(78,13): error C3861: 'glGenBuffers': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\cube.h(79,26): error C2065: 'GL_ELEMENT_ARRAY_BUFFER': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\cube.h(79,13): error C3861: 'glBindBuffer': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\cube.h(80,26): error C2065: 'GL_ELEMENT_ARRAY_BUFFER': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\cube.h(80,77): error C2065: 'GL_STATIC_DRAW': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\cube.h(80,13): error C3861: 'glBufferData': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\cube.h(84,13): error C3861: 'glDeleteVertexArrays': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\cube.h(85,13): error C3861: 'glDeleteBuffers': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\cube.h(86,13): error C3861: 'glDeleteBuffers': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\cube.h(105,13): error C3861: 'glBindVertexArray': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\camera_quat.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\volumeloader.h(52,27): error C2065: 'GL_TEXTURE_3D': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\volumeloader.h(53,29): error C2065: 'GL_TEXTURE_3D': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\volumeloader.h(54,29): error C2065: 'GL_TEXTURE_3D': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\volumeloader.h(55,29): error C2065: 'GL_TEXTURE_3D': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\volumeloader.h(55,63): error C2065: 'GL_CLAMP_TO_EDGE': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\volumeloader.h(56,29): error C2065: 'GL_TEXTURE_3D': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\volumeloader.h(56,63): error C2065: 'GL_CLAMP_TO_EDGE': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\volumeloader.h(57,29): error C2065: 'GL_TEXTURE_3D': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\volumeloader.h(57,44): error C2065: 'GL_TEXTURE_WRAP_R': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\volumeloader.h(57,63): error C2065: 'GL_CLAMP_TO_EDGE': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\volumeloader.h(61,26): error C2065: 'GL_TEXTURE_3D': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\volumeloader.h(61,43): error C2065: 'GL_R8': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\volumeloader.h(61,13): error C3861: 'glTexImage3D': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\volumeloader.h(32,23): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\include\volumeloader.h(85,33): warning C4244: '초기화 중': 'std::streamsize'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(67,57): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(67,43): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(83,34): warning C4244: '인수': 'double'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(83,20): warning C4244: '인수': 'double'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(90,77): warning C4244: '인수': 'T'에서 'GLuint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(90,62): warning C4244: '인수': 'T'에서 'GLuint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(90,47): warning C4244: '인수': 'T'에서 'GLuint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(96,70): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(96,56): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(97,75): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(97,61): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(103,20): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(104,36): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(118,27): error C2065: 'GL_DRAW_FRAMEBUFFER': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(118,9): error C3861: 'glBindFramebuffer': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(119,39): warning C4244: '인수': 'double'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(119,25): warning C4244: '인수': 'double'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(125,9): error C3861: 'glUseProgram': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(132,27): error C2065: 'GL_FRAMEBUFFER': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(132,9): error C3861: 'glBindFramebuffer': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(133,39): warning C4244: '인수': 'double'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(133,25): warning C4244: '인수': 'double'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(139,9): error C3861: 'glUseProgram': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(148,5): error C3861: 'glDeleteFramebuffers': 식별자를 찾을 수 없습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(155,43): error C2065: 'GL_FRAMEBUFFER': 선언되지 않은 식별자입니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(155,57): fatal error C1003: 오류 수가 100개를 초과했습니다. 컴파일을 중지합니다.

@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(78,70): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(78,56): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(79,75): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(79,61): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(118,39): warning C4244: '인수': 'double'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(118,25): warning C4244: '인수': 'double'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(128,39): warning C4244: '인수': 'double'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(128,25): warning C4244: '인수': 'double'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(220,59): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(221,61): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(226,54): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(227,54): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(251,45): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(251,31): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(267,36): warning C4244: '인수': 'double'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\Volume_Rendering_demo\main.cpp(267,22): warning C4244: '인수': 'double'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+LINK : warning LNK4098: 'MSVCRT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+  Volume_Rendering_demo.vcxproj -> C:\Users\Heeyeon\source\repos\Volume_Rendering_demo\x64\Debug\Volume_Rendering_demo.exe
